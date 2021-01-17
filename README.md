@@ -6,7 +6,7 @@ In this tutorial we will learn how to make Arduino XY Plotter Drawing machine. W
 - 1x Arduino UNO R3: http://bit.ly/2xt9MVk
 - 1x L293D Motor Drive Shield: http://bit.ly/2H7vmy9
 - 2x L293D Motor Drive IC: http://bit.ly/2J4N3jD
-- 2x 17 Stepper Motor: http://bit.ly/2J0xqhf
+- 2x 17 Stepper Motor: https://bit.ly/39EW9T1
 - 1x MG90S Servo Motor: http://bit.ly/2JfGtuj
 - 1x GT2 Pulley 16 Teeth Set: http://bit.ly/2H9DoXq
 - 1x GT2 Rubber Belt (5M): http://bit.ly/2Lfc0tJ
